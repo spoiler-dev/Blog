@@ -65,16 +65,16 @@
 				<div id="navbar-nav" class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
 						<li class="nav-item">
-							<a class="nav-link" href="/internet-slangs/">专题广场</a>
+							<a class="nav-link" href="sortPages.html">专题广场</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="/internet-slangs/">Matrix</a>
+							<a class="nav-link" href="martix.html">Matrix</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="/internet-slangs/">工具箱</a>
+							<a class="nav-link" href="itools.html">工具箱</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="/internet-slangs/">兴趣小组</a>
+							<a class="nav-link" href="discuss.html">兴趣小组</a>
 						</li>
 						<li class="nav-item dropdown">
 							<a id="navbar-dropdownmenu" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">更多</a>

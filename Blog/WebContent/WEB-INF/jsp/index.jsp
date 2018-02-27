@@ -10,7 +10,7 @@
 <head>
     <meta charset="utf-8" />
     <!--meta标签表示页面里的元信息标签，搜索引擎抓取网页时会分析此标签。-->
-    <meta name="auther" content="founder|方正" />
+    <meta name="auther" content="Founder|方正" />
     <!--content的取值为webkit,ie-comp,ie-stand之一，区分大小写，分别代表用webkit内核，IE兼容内核，IE标准内核。-->
     <meta name="renderer" content="webkit" />
     <!--该meta标签的作用是让当前viewport的宽度等于设备的宽度。也许允不允许用户缩放不同的网站有不同的要求，
@@ -33,8 +33,8 @@
         format=html5：根据手机页的协议语言，选择中的一种。（包括wml|xhtml|html5）
         url=/m：代表当前PC页所对应的手机页/m，两者必须是一一对应关系（而不是统一对应至手机站首页）
         -->
-    <meta http-equiv="mobile-agent" content="format=html5; url=http://founder.market/">
-    <title>澈澈 | 方正的个人博客</title>
+    <meta http-equiv="mobile-agent" content="format=html5; url=http://www.founder.ink/">
+    <title>Founder | 方正的个人博客</title>
     <!-- Bootstrap 4.0.0 Alpha 6 -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!-- FancyBox 3.1.20 弹出框插件 -->
@@ -43,18 +43,13 @@
     <link rel="stylesheet" href="assets/css/animate.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <!--第一，使用Canonical标签使网址规范化。
-　　                      第二，避免内容重复页面，搜索引擎收录更准确。
-　　                      第三，集中传递页面权重。
-        -->
+        第二，避免内容重复页面，搜索引擎收录更准确。
+        第三，集中传递页面权重。
+    -->
     <link rel="canonical" href="/">
-    <!-- <link rel="alternate" type="application/rss+xml" title="太空小孩" href="/feed.xml">-->
     <link rel="shortcut icon" href="assets/img/favicon.ico">
-    <!-- jQuery 1.11.3 -->
+    <!-- jQuery -->
     <script src="assets/js/jquery.min.js"></script>
-    <!-- HTML5 Shiv 3.7.3 -->
-    <!--[if lt IE 9]>
-        <script src="//cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-        <![endif]-->
     <style type="text/css">
         /*设置粒子动态背景*/
 
@@ -94,26 +89,16 @@
                         <a class="nav-link" href="martix.html">Matrix</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/internet-slangs/">工具箱</a>
+                        <a class="nav-link" href="itools.html">工具箱</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/internet-slangs/">兴趣小组</a>
+                        <a class="nav-link" href="discuss.html">兴趣小组</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a id="navbar-dropdownmenu" class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">更多</a>
                         <div class="dropdown-menu" aria-labelledby="navbar-dropdownmenu">
-                            <a class="dropdown-item" href="https://www.zhihu.com/people/spacekid" target="_blank">知乎</a>
-                            <a class="dropdown-item" href="https://weibo.com/kevindeng" target="_blank">微博</a>
-                            <a class="dropdown-item" href="https://fanfou.com/anegie" target="_blank">饭否</a>
-                            <a class="dropdown-item" href="https://www.douban.com/people/dksnow2002" target="_blank">豆瓣</a>
-                            <a class="dropdown-item" href="https://twitter.com/anegie" target="_blank">Twitter</a>
-                            <a class="dropdown-item" href="https://github.com/ispacekid" target="_blank">GitHub</a>
-                            <a class="dropdown-item" href="https://zhuanlan.zhihu.com/spacekid" target="_blank">知乎专栏 – 太空小孩</a>
-                            <a class="dropdown-item" href="http://zhuanlan.zhihu.com/quote" target="_blank">知乎专栏 – 太空语录</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="/categories/">分类</a>
-                            <a class="dropdown-item" href="/tags/">标签</a>
-                            <a class="dropdown-item" href="/feed.xml">RSS 订阅</a>
+                            <a class="dropdown-item" href="https://segmentfault.com/u/ichi" target="_blank">Segmentfault</a>
+                            <a class="dropdown-item" href="https://github.com/FounderInxx" target="_blank">GitHub</a>
                         </div>
                     </li>
                 </ul>
@@ -127,7 +112,7 @@
                 <div id="particles-js"></div>
                 <div class="intro-heading">
                     <h1 class="intro-title">澈澈</h1>
-                    <span class="intro-meta hidden-sm-down">因为有明天/我们才能熬过长夜</span>
+                    <span class="intro-meta hidden-sm-down">人的一切痛苦 / 本质上都是对自己的无能的愤怒</span>
                 </div>
             </div>
         </header>
@@ -198,11 +183,8 @@
             <div class="footer-meta">
                 <div>
                     <p>
-                        &copy; 2018 澈澈
+                        &copy; 2018 方正的小站
                         <br>
-                        <small class="text-muted">Hosted by
-                            <a href="https://pages.coding.me">Coding Pages</a>
-                        </small>
                     </p>
                 </div>
                 <div class="text-75">
@@ -213,7 +195,7 @@
             </div>
         </footer>
     </div>
-    <div id='page' style="background: black;color: blue"></div>
+    <div id="page" style="background: black;color: blue"></div>
     <!-- Tether 1.4.0 -->
     <script src="assets/js/tether.min.js"></script>
     <!-- Bootstrap 4.0.0 Alpha 6 -->
@@ -224,7 +206,7 @@
     <!--粒子动态背景-->
     <script src="assets/js/particles.min.js"></script>
     <!-- Retina.js 2.1.2 -->
-    <!-- <script src="//cdn.bootcss.com/retina.js/2.1.2/retina.min.js"></script> -->
+    <script src="//cdn.bootcss.com/retina.js/2.1.2/retina.min.js"></script>
     <!-- Retina.js CORS Workaround -->
     <script src="assets/js/retina.js"></script>
     <script src="assets/js/script.js"></script>

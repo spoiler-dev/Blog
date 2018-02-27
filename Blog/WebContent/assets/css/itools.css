@@ -1,0 +1,118 @@
+			.series-carousel-card:hover {
+    			border-color: #c2ced8;
+			}
+			.series-carousel-card {
+			    border: 1px solid #dbe2e8;
+			    border-radius: 2px;
+			    background-color: #fff;
+			    box-shadow: 0 1px 2px rgba(46,61,73,.08);
+			    padding: 20px;
+			    margin: 0 0 20px;
+			    transition: border .3s ease-in-out;
+			}
+			.series-carousel-card .series-carousel-header {
+			    border-bottom: 1px solid #dbdbdb;
+			    padding-bottom: 8px;
+			    margin-bottom: 20px;
+			}
+			.series-carousel-card .series-carousel-header .link {
+			    color: #1c8ce9;
+			    font-size: 14px;
+			}
+			.series-carousel-card .content {			    
+			    position: relative;
+			}
+			.series-carousel-card .content .series-card-wrapper {
+			    display: flex;
+			    flex-direction: row;
+			    flex-wrap: wrap;
+			    justify-content: space-between;
+			  
+			    position: relative;
+			}
+			.series-carousel-card .content .series-card-wrapper .series-card-carousel .card-content-header .title {
+			    font-size: 18px;
+			    font-weight: 600;
+			    line-height: 1.33;
+			    letter-spacing: .6px;
+			    text-align: left;
+			    color: #fff;
+			    text-shadow: 0 2px 15px rgba(0,0,0,.2);
+			    position: absolute;
+			    left: 14px;
+			    top: 30px;
+			    margin: 0;
+			    max-width: 140px;
+			}
+			.series-carousel-card .content .series-card-wrapper .series-card-carousel .thumbnail {
+			    max-width: 100%;
+			    min-width: 100%;
+			    border-radius: 14px;
+			}
+			.series-carousel-card .content .series-card-wrapper .series-card-carousel .card-content-header .info {
+			    position: absolute;
+			    bottom: 20px;
+			    left: 15px;
+			    text-align: left;
+			}
+			.series-carousel-card .content .series-card-wrapper .series-card-carousel .card-content-header .avatar {
+			    width: 25px;
+			    height: 25px;
+			    border-radius: 50%;
+			    display: inline-block;
+			    vertical-align: middle;
+			}
+			.avatar {
+			    margin-right: 10px;
+			    display: inline-block;
+			    vertical-align: middle;
+			}
+			.series-carousel-card .content .series-card-wrapper .series-card-carousel .card-content-header .info h3 {
+			    display: inline-block;
+			    margin: 0;
+			    margin-bottom: 10px;
+			    font-size: 14px;
+			    font-weight: 500;
+			    line-height: 1;
+			    letter-spacing: -.2px;
+			    color: #fff;
+			}
+			.series-carousel-card .content .series-card-wrapper .series-card-carousel .card-content-header .status {
+			    color: #fff;
+			    font-size: 12px;
+			}
+			.series-carousel-card .content .series-card-wrapper .series-card-carousel .sub-btn {
+			    width: 100px;
+			    height: 32px;
+			    border-radius: 100px;
+			    background-color: rgba(255,47,58,.9);
+			    box-shadow: 0 2px 4px 0 rgba(243,112,85,.5);
+			    border-color: transparent;
+			    color: #fff;
+			    margin: 0 auto;
+			    font-size: 14px;
+			}
+			.series-carousel-card .content .series-card-wrapper .series-card-carousel {
+			    display: inline-block;
+			    width: 210px;
+			    min-width: 210px;
+			    margin-right: 15px;
+			    padding: 10px;
+			    text-align: center;
+			}
+
+			button, input, select, textarea {
+			    margin: 0;
+			    outline: none;
+			    vertical-align: middle;
+			    box-sizing: border-box;
+			}
+			.series-carousel-card .content .series-card-wrapper .series-card-carousel .card-content-header {
+			    position: relative;
+			}
+			menu, article, aside, details, footer, header, nav, section {
+			    display: block;
+			}
+			#home {
+				margin-top: 50px;	
+			}

@@ -22,7 +22,7 @@
 	<bean id="dataSource" class="org.apache.commons.dbcp2.BasicDataSource"
 		destroy-method="close" 
 		p:driverClassName="oracle.jdbc.driver.OracleDriver"		
-		p:url="jdbc:oracle:thin:@172.16.9.151:1521/iwls" 
+		p:url="jdbc:oracle:thin:@172.16.9.151/orcl" 
 		p:username="iwls"
 		p:password="iwls" />
 

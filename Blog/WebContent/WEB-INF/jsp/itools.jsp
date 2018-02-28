@@ -61,7 +61,7 @@
 				 aria-expanded="false" aria-label="Toggle Navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
-				<a class="navbar-brand" href="/">澈澈</a>
+				<a class="navbar-brand" href="index.html">澈澈</a>
 				<div id="navbar-nav" class="collapse navbar-collapse">
 					<ul class="nav navbar-nav">
 						<li class="nav-item">

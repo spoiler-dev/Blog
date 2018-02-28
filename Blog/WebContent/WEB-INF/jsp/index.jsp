@@ -79,7 +79,7 @@
                 aria-expanded="false" aria-label="Toggle Navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand" href="/">Founder | 澈澈</a>
+            <a class="navbar-brand" href="index.html">澈澈</a>
             <div id="navbar-nav" class="collapse navbar-collapse">
                 <ul class="nav navbar-nav">
                     <li class="nav-item">
@@ -112,7 +112,7 @@
                 <div id="particles-js"></div>
                 <div class="intro-heading">
                     <h1 class="intro-title">澈澈</h1>
-                    <span class="intro-meta hidden-sm-down">人的一切痛苦 / 本质上都是对自己的无能的愤怒</span>
+                    <span class="intro-meta hidden-sm-down">你要做一个不动声色的大人了 / 不准情绪化 / 不准偷偷想念 / 不准回头看<br>去过自己另外的生活<br>你要听话 / 不是所有的鱼都会生活在同一片海里</span>
                 </div>
             </div>
         </header>

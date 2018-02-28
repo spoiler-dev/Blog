@@ -111,7 +111,7 @@
             <div>
                 <div id="particles-js"></div>
                 <div class="intro-heading">
-                    <h1 class="intro-title">澈澈</h1>
+                    <h1 class="intro-title">澈 澈</h1>
                     <span class="intro-meta hidden-sm-down">你要做一个不动声色的大人了 / 不准情绪化 / 不准偷偷想念 / 不准回头看<br>去过自己另外的生活<br>你要听话 / 不是所有的鱼都会生活在同一片海里</span>
                 </div>
             </div>

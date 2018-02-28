@@ -121,7 +121,7 @@
             <form action="content.html" method="post" name="index-main" class="post">
                 <article class="container container-index post entry">
                     <a class="entry-link">
-                        <header class="entry-header" style="background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('${index.fictionBackground }');}">
+                        <header class="entry-header" style="background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('${index.fictionBackground }');">
                             <input type="hidden" value="${index.fictionId }" name="fictionId" />
                             <h2 class="entry-title" name="fictionTitle">
                                 ${index.fictionTitle }

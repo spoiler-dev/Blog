@@ -33,7 +33,7 @@
         format=html5：根据手机页的协议语言，选择中的一种。（包括wml|xhtml|html5）
         url=/m：代表当前PC页所对应的手机页/m，两者必须是一一对应关系（而不是统一对应至手机站首页）
         -->
-	<meta http-equiv="mobile-agent" content="format=html5; url=http://spacekid.me/">
+	<meta http-equiv="mobile-agent" content="format=html5; url=http://www.founder.ink/">
 	<title>Founder | 方正的个人博客</title>
 	<!-- Bootstrap 4.0.0 Alpha 6 -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">

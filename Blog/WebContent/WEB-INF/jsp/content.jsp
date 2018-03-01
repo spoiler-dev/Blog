@@ -34,7 +34,7 @@
         url=/m：代表当前PC页所对应的手机页/m，两者必须是一一对应关系（而不是统一对应至手机站首页）
         -->
 	<meta http-equiv="mobile-agent" content="format=html5; url=http://www.founder.ink/">
-	<title>founder.coding</title>
+	<title>Founder 方正</title>
 	<!-- Bootstrap 4.0.0 Alpha 6 -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
 	<!-- FancyBox 3.1.20 弹出框插件 -->

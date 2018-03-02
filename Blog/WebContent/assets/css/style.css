@@ -434,9 +434,9 @@ table.fixed td {
   color: rgba(255, 255, 255, 0.75);
 }
 
-.post .entry-content {
+/* .post .entry-content {
   word-break: break-word;
-}
+} */
 
 .post .entry-content a:not(.btn):not([data-toggle]) {
   border-bottom: 1px solid;
@@ -816,7 +816,7 @@ pre code {
   background-color: transparent;
   border: 0;
 }
-
+/* 代码高亮 */
 .pln { color: #000 }  /* plain text */
 .str { color: #080 }  /* string content */
 .kwd { color: #008 }  /* a keyword */
